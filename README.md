@@ -1,19 +1,27 @@
 ### Hi there 👋
 
-<!--
-**tlee2210/tlee2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Le Thanh Thien,  dedicated Backend Developer with a solid grasp of Java and C#, and a passion for architecting robust and scalable web applications.
 
-Here are some ideas to get you started:
+### Skills
+- Advanced: Java, Spring Boot
+- Intermediate: ReactJS, JavaScript, HTML5, CSS3
+- Beginner: Node.js, Express.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm currently learning
+- Microservices with Spring Cloud
+- TypeScript
+
+### How to Reach Me
+- Email: thienle255@gmail.com
+
+### My GitHub Contributions
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TranNhatQuang2405&show_icons=true)
+
+### Community Involvement
+- Contributor to [Open Source Project](https://github.com/OpenSourceProject)
+- Volunteer at local coding bootcamps
+
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
