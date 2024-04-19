@@ -21,11 +21,18 @@ I'm Le Thanh Thien,  dedicated Backend Developer with a solid grasp of Java and 
 - **Description:** Developed a comprehensive school website designed as an interactive eProject platform to facilitate the enrollment process and display school announcements. enhancing user interaction and streamlining content management for educational administration. 
 - **GitHub (backend):** [Restaurant Website Repository](https://github.com/tlee2210/backend-app)
 - **GitHub (frontend):** [Restaurant Website Repository](https://github.com/tlee2210/frontend-react)
+  
   ---
   
 #### Tourism and Hotel Management Project (  01-September-2023 - 11-November-2024  )
 - **Technologies and Languages:**  Laravel, Vue.js, MySQL 
 - **Description:** The Tourism and Hotel Management project is a multi-platform software system aimed at optimizing management and customer experience in booking, managing tourism services, and processing payments. The objective of the project is to provide a comprehensive solution to enhance business efficiency and offer customers a seamless and memorable travel experience. 
-- **GitHub (backend):** [Restaurant Website Repository](https://github.com/tlee2210/tourism-and-hotel-management )
-  
-  
+- **GitHub :** [Restaurant Website Repository](https://github.com/tlee2210/tourism-and-hotel-management )
+
+---
+
+#### LeetCode Challenges (01-September-2023 - Present)
+- **Technologies and Languages:** Java
+- **Description:** Engaging with LeetCode challenges to deepen my understanding of algorithms and data structures, this repository showcases my solutions in Java, reflecting my commitment to ongoing learning and problem-solving expertise.
+- **GitHub :** [LeetCode Solutions Repository](https://github.com/tlee2210/leetcode)
+
