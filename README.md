@@ -19,8 +19,8 @@
 #### College Project ( 03-Jan-2024 - 05-Feb-2024 )
 - **Technologies and Languages:** .NET, React, SQL
 - **Description:** Developed a comprehensive school website designed as an interactive eProject platform to facilitate the enrollment process and display school announcements. enhancing user interaction and streamlining content management for educational administration. 
-- **GitHub (backend):** [Restaurant Website Repository](https://github.com/tlee2210/backend-app)
-- **GitHub (frontend):** [Restaurant Website Repository](https://github.com/tlee2210/frontend-react)
+- **GitHub (backend):** https://github.com/tlee2210/backend-app
+- **GitHub (frontend):** https://github.com/tlee2210/frontend-react
   
   ---
   
@@ -34,5 +34,5 @@
 #### LeetCode Challenges (01-September-2023 - Present)
 - **Technologies and Languages:** Java
 - **Description:** Engaging with LeetCode challenges to deepen my understanding of algorithms and data structures, this repository showcases my solutions in Java, reflecting my commitment to ongoing learning and problem-solving expertise.
-- **GitHub :** [LeetCode Solutions Repository](https://github.com/tlee2210/leetcode)
+- **GitHub :** https://github.com/tlee2210/leetcode
 
