@@ -27,7 +27,7 @@
 #### Tourism and Hotel Management Project (  01-September-2023 - 11-November-2024  )
 - **Technologies and Languages:**  Laravel, Vue.js, MySQL 
 - **Description:** The Tourism and Hotel Management project is a multi-platform software system aimed at optimizing management and customer experience in booking, managing tourism services, and processing payments. The objective of the project is to provide a comprehensive solution to enhance business efficiency and offer customers a seamless and memorable travel experience. 
-- **GitHub :** [Restaurant Website Repository](https://github.com/tlee2210/tourism-and-hotel-management )
+- **GitHub :** https://github.com/tlee2210/tourism-and-hotel-management
 
 ---
 
