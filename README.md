@@ -19,8 +19,3 @@ I'm Le Thanh Thien,  dedicated Backend Developer with a solid grasp of Java and 
 - **Technologies and Languages:** Java, JSP, Hibernate, HTML, CSS, JS, PostgreSQL
 - **Description:** This project leverages fundamental Java web development concepts to create a user-friendly restaurant website. It enables customers to search and order dishes, while providing a management system for the restaurant to oversee the menu and orders.
 - **GitHub:** [Restaurant Website Repository](https://github.com/TranNhatQuang2405/Restaurant/)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
