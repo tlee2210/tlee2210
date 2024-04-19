@@ -14,15 +14,13 @@ I'm Le Thanh Thien,  dedicated Backend Developer with a solid grasp of Java and 
 ### How to Reach Me
 - Email: thienle255@gmail.com
 
-### My GitHub Contributions
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TranNhatQuang2405&show_icons=true)
+### My Personal Projects
 
-### Community Involvement
-- Contributor to [Open Source Project](https://github.com/OpenSourceProject)
-- Volunteer at local coding bootcamps
+#### Restaurant Website (02/2021 - 05/2021)
+- **Technologies and Languages:** Java, JSP, Hibernate, HTML, CSS, JS, PostgreSQL
+- **Description:** This project leverages fundamental Java web development concepts to create a user-friendly restaurant website. It enables customers to search and order dishes, while providing a management system for the restaurant to oversee the menu and orders.
+- **GitHub:** [Restaurant Website Repository](https://github.com/TranNhatQuang2405/Restaurant/)
 
-
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
